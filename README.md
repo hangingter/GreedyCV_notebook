@@ -3,6 +3,6 @@
 
 This is my notes of GreedyAI's course named Computer vesion.
 
-It will take a lot of time to do mt own notes.
+It will take a lot of time to do my own notes.
 
-May you can get benifits from it.
+May you can benifit from it.
